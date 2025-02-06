@@ -15,6 +15,7 @@ Cada nombre ingresado aparece en una lista debajo del campo de entrada.
 Sorteo del Amigo Secreto:
 
 Al presionar el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista.
+Si hay menos de dos nombres, se muestra una alerta indicando que no se puede hacer el sorteo.
 Se muestra el nombre del ganador en la pantalla.
 Luego de realizar el sorteo, la lista de nombres se limpia automáticamente.
 
